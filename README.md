@@ -1,1 +1,16 @@
 # things-to-unlearn
+- SoC
+- IoC
+- SOLID
+- KISS
+- YAGNI
+- DRY
+- WET
+- AHA
+- TDD
+- ATDD
+- DoD
+- BDD
+- trunk-based development
+- continuous delivery
+- feature flagging
